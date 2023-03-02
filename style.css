@@ -26,6 +26,8 @@ nav ul li{
     padding: 10px 20px;
 }
 button{
+    
+    
     background-color: black;
     color: white;
     font-weight: lighter;
@@ -51,7 +53,11 @@ img{
     
 }
 #f1{
-    float: left;
+  padding: left;
+  display: flex;
+  float: left;
+
+  
 }
 .pro{
     align-items: center;
@@ -62,10 +68,18 @@ img{
 #fit{
     margin: right;
     align-items: center;
-    background-color: white;
+    background-color: palegreen;
+    border: cornsilk;
 }
 #our{
     align-content: center;
+    background-color: palegreen;
+    border: cornsilk;
+}
+#ang{
+    background-color: palegreen;
+    border: cornsilk;
+
 }
 .image{
 
@@ -76,7 +90,7 @@ img{
     
 }
 #fun8{
-margin-bottom: -20%;
+margin-bottom: 20%;
 }
 #fun9{
     margin-bottom: -20%;
@@ -84,7 +98,7 @@ margin-bottom: -20%;
 }
 h3{
     font-size: large;
-    font-size: 52px;
+    font-size: 80px;
 }
 .space{
 
@@ -92,4 +106,92 @@ h3{
 #fun1{
     float: left;
 
+}
+#fun10{
+    
+    float: right;
+}
+#fun7{
+    
+}
+h4{
+    font-size: large;
+    font-size: 95px;
+}
+.fun{
+    align-items: center;
+    display: flex;
+    margin: right;
+    justify-content: space-between;
+}
+.fun{
+    align-items: center;
+    display: flex;
+    margin: right;
+    justify-content: space-between;
+}
+#ig{
+    margin-left: 20px;
+    align-content: center;
+    
+}
+#fun0{
+    float: left;
+    text-align: center;
+    display: flex;
+    margin-right: -70%;
+}
+.text{
+    margin-left: 20px;
+    
+}
+#image{
+    padding-top: -7%;
+    margin-top: -7%;
+    padding-right: 50px;
+}
+#B1{
+    padding-top: -7%;
+    margin-top: -7%;
+}
+#f13{
+    margin-bottom: -20%;
+    margin-right: 20%;
+    padding-top: -20%;
+    float: left;
+}
+#vee{
+    background-color: palegreen;
+    border: cornsilk;
+}
+#fun13{
+    float: left;
+    margin-bottom: 600%;
+    display: flex;
+    margin-top: 50%;
+    margin-right: -25%;
+    margin-left: 30%;
+    
+}
+.get{
+
+}
+#jay{
+    font-size: larger;
+    font-weight: bold;
+    font-size: 50px;
+}
+#jay{
+ border: darkgray;
+ background-color: none;
+}
+#fun66{
+    float: right;
+    margin-bottom: -1.5%;
+    margin-right: 80%;
+    margin-left: 60%;
+    margin-top: 28%;
+}
+.arm{
+    display: flex;
 }
